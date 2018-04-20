@@ -1,2 +1,0 @@
-# hello-w
-my git
